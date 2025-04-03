@@ -1,0 +1,17 @@
+COHPstartEnergy  -22
+COHPendEnergy     18
+basisSet  pbeVaspFit2015
+includeOrbitals s p
+
+cohpGenerator type S type O type H
+
+
+basisFunctions C  2s 2p 
+basisFunctions H  1s 
+basisFunctions N  2s 2p
+basisFunctions O  2s 2p
+basisFunctions S  3s 3p
+
+
+skipGrossPopulation
+skipMadelungEnergy
