@@ -8,7 +8,7 @@
 
 A comprehensive toolkit for calculating and analyzing **Crystal Orbital Hamilton Population (COHP)** and **Density of States (DOS)** using LOBSTER software with VASP output. Perfect for materials scientists, computational chemists, and researchers studying electronic structure and bonding properties.
 
-![COHP Analysis Example](https://github.com/username/lobster_cohp_dos_cal/blob/main/images/cohp_example.png)
+![COHP Analysis Example](https://github.com/SaraTolba/lobster_cohp_dos_cal/blob/main/images/cohp_example.png)
 
 ## 📋 Features
 
@@ -56,7 +56,7 @@ This repository includes scripts for:
 
 ## 📊 Example Results
 
-![DOS Analysis Example](https://github.com/username/lobster_cohp_dos_cal/blob/main/images/dos_example.png)
+![DOS Analysis Example](https://github.com/SaraTolba/lobster_cohp_dos_cal/blob/main/images/dos_example.png)
 
 ## 🔗 Dependencies
 
@@ -70,7 +70,7 @@ This repository includes scripts for:
 
 ## 📖 Usage
 
-More detailed examples and usage instructions are provided in the [documentation folder](https://github.com/username/lobster_cohp_dos_cal/tree/main/docs).
+More detailed examples and usage instructions are provided in the [documentation folder](https://github.com/SaraTolba/lobster_cohp_dos_cal/tree/main/docs).
 
 ## 🔍 Applications
 
@@ -90,18 +90,17 @@ These scripts were developed following work by various researchers in the field:
 ## 👥 Contributing
 
 Contributions, bug reports, and feature requests are welcome! Please feel free to:
-- Submit a [pull request](https://github.com/username/lobster_cohp_dos_cal/pulls)
-- Open an [issue](https://github.com/username/lobster_cohp_dos_cal/issues)
-- Improve [documentation](https://github.com/username/lobster_cohp_dos_cal/tree/main/docs)
+- Submit a [pull request](https://github.com/SaraTolba/lobster_cohp_dos_cal/pulls)
+- Open an [issue](https://github.com/SaraTolba/lobster_cohp_dos_cal/issues)
 
 
 ## 📧 Contact
 
-For questions and support, please [open an issue](https://github.com/username/lobster_cohp_dos_cal/issues)
+For questions and support, please [open an issue](https://github.com/SaraTolba/lobster_cohp_dos_cal/issues)
 
 ## ⭐ Star this repository
 
-If you find this toolkit useful, please consider giving it a star on GitHub to help others discover it!
+If you find this toolkit helpful, please consider giving it a star on GitHub to help others discover it!
 
 ---
 
